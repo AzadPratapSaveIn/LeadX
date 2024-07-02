@@ -1,0 +1,6 @@
+[
+	{"btnListYourPractice":{"locatorType":"XPATH", "locatorValue":"//button[contains(text(),'List your practice in 5 mins')]"}},
+	{"lnkTxtDentist":{"locatorType":"XPATH", "locatorValue":"//button[text()='Dentist']"}},
+	{"txtDental":{"locatorType":"XPATH", "locatorValue":"//button[text()='Dentist']"}}
+	
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <!-- <listeners>
+	<listener class-name="testComponents.ITestListenerClass"></listener>
+</listeners> -->
+  <test thread-count="2" name="Test">
+  <parameter name="auther" value="Azad Singh"></parameter>
+    <classes>
+      <class name="DemoHome.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
